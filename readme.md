@@ -7,7 +7,7 @@
 #### Design by ####
 - 12330173 Li Xiaoliang  
 - 12330180 Li Yucheng  
-- 12330277 Sui Zemin
+- 12330277 Shui Zemin
 
 
 ----------
